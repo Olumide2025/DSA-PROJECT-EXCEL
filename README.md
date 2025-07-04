@@ -27,19 +27,33 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
    - Review content (aggregated in some columns)
    - Revenue potential fields (derived)
 # 📊 Key Analytical Tasks & Solutions
-#	Task Description	Excel Tools/Logic Used
-  a What is the average discount % by product category?	Pivot Table + Average Formula
-  b How many products are listed under each category?	Pivot Table + Count
-c  What is the total number of reviews per category?	SUM of Rating Count by category
-4	 Which products have the highest average ratings?	Sorting based on calculated Average Rating
-5	What is the actual vs discounted price by category?	Grouped Bar Chart + Pivot Summary
-6	Which products have the highest number of reviews?	Top-N Analysis using Sorting + Pivot Table
-7	How many products have ≥ 50% discount?	Filter logic on Discount column
-8	What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?	Grouped histogram with Pivot Count
-9	Total potential revenue (actual_price × rating_count) per category?	New Calculated Column + Pivot Table SUM
-10	Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)?	IF formulas + Donut Chart
-11	Relationship between rating and discount level?	Scatter Line Chart (2 y-axes)
-12	How many products have fewer than 1,000 reviews?	COUNTIF Formula + Bar Chart
-13	Categories with highest average discount?	Sorted Pivot Table by Discount%
-14	Top 5 products by combined review count and rating	Ranking logic using SUM(Rating × ReviewCount)
+### | Task Description | Excel Tools Used |
+1. What is the average discount % by product category?
+  - Here I used the Pivot Table and Average Formula.
+2. How many products are listed under each category?
+  - The Pivot Table and Count was used here.
+3. What is the total number of reviews per category?
+  - The SUM function for Rating Count by category
+4.	Which products have the highest average ratings?
+  - This was sorted by calculating the Average Rating
+5.	What is the actual vs discounted price by category?
+  - Here I used the Grouped Bar Chart with the Pivot Summary
+6.	Which products have the highest number of reviews?
+  - Here the Sorting and Pivot Table was deployed.
+7.	How many products have ≥ 50% discount?
+  - The use Filter logic on Discount column was used to answer this question.
+8.	What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?
+  - Answered by grouping with histogram and Pivot Count.
+9.	Total potential revenue (actual_price × rating_count) per category?
+  - This is a derived (Calculated) Column + Pivot Table SUM
+10.	Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)?
+  - Using the IF function with the Donut Chart
+11.	Relationship between rating and discount level?
+  - This is done by Scatter Line Chart (2 y-axes)
+12.	How many products have fewer than 1,000 reviews?
+  - Deployed the COUNTIF Formula and Bar Chart
+13.	Categories with highest average discount?
+  - A sorted Pivot Table by Discount% was deployed
+14.	Top 5 products by combined review count and rating	Ranking logic
+  - using SUM(Rating × ReviewCount)
 
