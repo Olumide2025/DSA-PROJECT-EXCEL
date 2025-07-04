@@ -57,6 +57,11 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 14.	Top 5 products by combined review count and rating	Ranking logic
   - using SUM(Rating × ReviewCount)
 
+### Visual and Insights
+
+
+
+
 ### 🧠 Key Highlights from Dashboard:
 - Discount vs Rating: Discounted products have low rating.
 - Price Range Bucket: Large percentage of products fall under the affordable to mid expensive range.
