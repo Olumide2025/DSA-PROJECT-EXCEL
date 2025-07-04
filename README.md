@@ -57,3 +57,35 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 14.	Top 5 products by combined review count and rating	Ranking logic
   - using SUM(Rating × ReviewCount)
 
+### 🧠 Key Highlights from Dashboard:
+- Discount vs Rating: Discounted products have low rating.
+- Price Range Bucket: Large percentage of products fall under the affordable to mid expensive range.
+- Revenue Potential: Dominance of categories like Home Kitchen and Electronics dominate in potential revenue.
+- Category-wise Review Count: Electronics and accessories are more reviewed bu the users.
+- Top 5 Products: Based on high review count and strong ratings.
+- Discount Percentage by Category: Health and home products are the most discounted products.
+
+### 🧠 Skills & Competencies Demonstrated
+Skills and How it was applied
+- Data Cleaning: I removed nulls, corrected inconsistent formats, trimmed text
+- Data Aggregation: I used pivot tables and grouping in summarizing the key insights
+- Excel Formulas	IF, COUNTIF, AVERAGEIFS, PROPER, TRIM and calculated columns
+- Visualization Designed intuitive charts (bar, pie, line, donut, cards)
+- Slicers & Cards	was enabled tp help in the dynamic filtering and KPI display of insights
+- Business Analysis: Conclusions were drawn based on data trends and business logic
+
+### 💡 Summary of Business Insight
+- High Discount is not equal to High Rating: Many discounted items witnessed poor ratings. cutting down prices alone won’t ensure customer satisfaction, they need more assurance.
+- Most Reviewed Category: Electronics stands as the most reviewed product category which shows high satisfaction.
+- Revenue Optimization: More focus should be on marketing mid-priced, highly rated products in "Home Kitchen" and "Accessories".
+- Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
+- Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
+
+### 🔧 Tools & Environment
+- Microsoft Excel
+- Pivot Tables
+- Data Visualizations (Bar, Line, Donut, Cards)
+- Slicers & Filters
+- Conditional Formatting
+- Named Ranges & Table References
+
