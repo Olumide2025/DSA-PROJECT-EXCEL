@@ -58,6 +58,17 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
   - using SUM(Rating × ReviewCount)
 
 ### Visual and Insights
+![Screenshot_20250704-204901](https://github.com/user-attachments/assets/547321f5-5ed7-4741-a3d7-60f83def1cd2)
+![Screenshot_20250704-204941](https://github.com/user-attachments/assets/b349daa2-ac97-4d47-b5d7-e761b067b131)
+![Screenshot_20250704-205017](https://github.com/user-attachments/assets/ad84dffa-6877-4b68-aa32-d9cfbcc20e71)
+![Screenshot_20250704-205209](https://github.com/user-attachments/assets/f2a90770-b07a-4731-a192-f4017b6e1fb0)
+
+
+
+
+
+
+
 
 
 
@@ -94,3 +105,11 @@ Skills and How it was applied
 - Conditional Formatting
 - Named Ranges & Table References
 
+### About Me
+Yusuf Olumide Damilare
+B.A English and Literary Studie | Data Analyst
+Passionate about data becoming visuals which will impact and help businesses grow for decision making. This is a project that has helped my learning journey to profiecinecy in Excel-based analysis.
+
+### Contact
+- Email: appositive20@gmail.com
+- Phone: +234 701 206 2055
