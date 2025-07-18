@@ -113,3 +113,4 @@ Passionate about data becoming visuals which will impact and help businesses gro
 ### Contact
 - Email: appositive20@gmail.com
 - Phone: +234 701 206 2055
+- LinkedIn: https://ng.linkedin.com/in/olumide-yusuf-a4a00433a
